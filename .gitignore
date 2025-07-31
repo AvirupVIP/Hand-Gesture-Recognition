@@ -1,0 +1,12 @@
+# Ignore dataset folder
+gesture_dataset/
+
+# Ignore dataset zip file
+archive.zip
+
+# Ignore trained model (optional)
+gesture_model_mobilenetv2.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
